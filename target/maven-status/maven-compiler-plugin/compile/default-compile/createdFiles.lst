@@ -1,0 +1,4 @@
+me\erisos\qsystem\commands\QCommands.class
+me\erisos\qsystem\listeners\QCommandEvent.class
+me\erisos\qsystem\QSystem.class
+me\erisos\qsystem\listeners\QJoinEvent.class

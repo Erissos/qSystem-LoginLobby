@@ -1,0 +1,13 @@
+#█▀▀█ █░░█ █▀▀ ▀▀█ █░░ █░░█ ░ █▀▀▄ █▀▀ ▀▀█▀▀
+#█░░█ █░░█ █▀▀ ▄▀░ █░░ █▄▄█ ▄ █░░█ █▀▀ ░░█░░
+#▀▀▀█ ░▀▀▀ ▀▀▀ ▀▀▀ ▀▀▀ ▄▄▄█ █ ▀░░▀ ▀▀▀ ░░▀░░
+
+# Discord: amonpl, erisos
+
+
+#İzin verilen komutlar
+allow_commands:
+  - qSystem #Çakma lobi de etraf da düzenleme yapılacağı zaman efektleri kaldırma komutu.
+
+#Hata mesajı
+error_message: '&eHATA'

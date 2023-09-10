@@ -1,0 +1,6 @@
+name: qSystem
+version: '${project.version}'
+main: me.erisos.qsystem.QSystem
+commands:
+  qSystem:
+    description: qSystem Command
